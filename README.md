@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @imtayyabzaman<br>👀 I’m interested in Hybrid App Development(Flutter)<br>🌱 Fluter Ui.<br>💞️ I’m looking to collaborate on Flutter Projects.
+👋 Hi, I’m Muhammad Tayyab Zaman<br>👀 I’m interested in Hybrid App Development(Flutter)<br>🌱 Fluter Ui.<br>💞️ I’m looking to collaborate on Flutter Projects.
 
 
 ## 🌐 Socials:
