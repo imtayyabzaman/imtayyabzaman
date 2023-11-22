@@ -2,6 +2,14 @@
 👋 Hi, I’m Muhammad Tayyab Zaman<br>👀 I’m interested in Hybrid App Development(Flutter)<br>🌱 Fluter Ui.<br>💞️ I’m looking to collaborate on Flutter Projects.
 
 
+
+
+<h1 align="center"><b>Hi👋, I'm Mubashir </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Flutter+Developer,;Software+Engineer,;Love+to+learn+new+stuffs..&hearts;"></a>
+</p>
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/imtayyabzaman) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/imtayyabzaman) 
 </br><hr/></br>
