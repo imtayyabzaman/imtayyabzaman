@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://github.com/Mubashir01234/Mubashir01234/raw/main/assets/github_2.gif" height="20%" width="20%"> <img src="https://github.com/Mubashir01234/Mubashir01234/raw/main/assets/github_3.gif" height="20%" width="20%"> </p>
+<p align="center"> <img src="https://github.com/Mubashir01234/Mubashir01234/raw/main/assets/github_2.gif" height="20%" width="20%"> </p>
 
 
 
