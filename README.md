@@ -1,5 +1,4 @@
-# 💫 About Me:
-👋 Hi, I’m Muhammad Tayyab Zaman<br>👀 I’m interested in Hybrid App Development(Flutter)<br>🌱 Fluter Ui.<br>💞️ I’m looking to collaborate on Flutter Projects.
+<p align="center"> <img src="https://github.com/Mubashir01234/Mubashir01234/raw/main/assets/github_2.gif" height="20%" width="20%"> <img src="https://github.com/Mubashir01234/Mubashir01234/raw/main/assets/github_3.gif" height="20%" width="20%"> </p>
 
 
 
