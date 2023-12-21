@@ -1,12 +1,15 @@
 <p align="center"> <img src="https://github.com/Mubashir01234/Mubashir01234/raw/main/assets/github_2.gif" height="20%" width="20%"> </p>
 
-Simplicity is prerequisite for reliability.
+
 
 
 <h1 align="center"><b>Hi,I'm Tayyab </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=800&height=200&lines=Welcome+to+my+GitHub...&hearts;++;Mobile+Application+Developer;Flutter+Developer;Software+Engineer;Love+to+learn+new+stuffs..&hearts;"></a>
+</p>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Simplicity+is+prerequisite+for+reliability;++;Welcome+to+my+GitHub;where+elegant+solutions+meet+unwavering+dependability...&hearts;"></a>
 </p>
 
 ## 🌐 Socials:
