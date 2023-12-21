@@ -9,7 +9,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=800&height=200&lines=Welcome+to+my+GitHub...&hearts;++;Mobile+Application+Developer;Flutter+Developer;Software+Engineer;Love+to+learn+new+stuffs..&hearts;"></a>
 </p>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Simplicity+is+prerequisite+for+reliability;++;Welcome+to+my+GitHub;where+elegant+solutions+meet+unwavering+dependability...&hearts;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=23&center=true&vCenter=true&width=900&height=300&lines=Simplicity+is+prerequisite+for+reliability;Welcome+to+my+GitHub;where+elegant+solutions+meet+unwavering+dependability...&hearts;"></a>
 </p>
 
 ## 🌐 Socials:
