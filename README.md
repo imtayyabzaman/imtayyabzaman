@@ -8,9 +8,9 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=800&height=200&lines=Welcome+to+my+GitHub...&hearts;++;Mobile+Application+Developer;Flutter+Developer;Software+Engineer;Love+to+learn+new+stuffs..&hearts;"></a>
 </p>
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=23&center=true&vCenter=true&width=900&height=300&lines=Simplicity+is+prerequisite+for+reliability;Welcome+to+my+GitHub;where+elegant+solutions+meet+unwavering+dependability...&hearts;"></a>
-</p>
+</p> -->
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amanhasnonamee) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/imtayyabzaman) 
